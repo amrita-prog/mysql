@@ -16,3 +16,9 @@ alter table emp add column gender varchar(10);
 
 -- delete column
 alter table emp drop column gender;
+
+-- delete values
+delete from emp where id = 3;
+
+-- delete table
+drop table emp;
