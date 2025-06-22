@@ -1,3 +1,5 @@
+--create table
+
 use amrita;
 
 create table emp(
