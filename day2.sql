@@ -1,3 +1,5 @@
+-- insert,update,delete
+
 use amrita;
 
 select * from emp;
