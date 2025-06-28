@@ -1,3 +1,5 @@
+-- String Functions
+
 use amrita;
 
 select * from emp;
